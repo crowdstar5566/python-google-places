@@ -12,7 +12,8 @@ Installation
 
 .. _installation:
 
-pip install https://github.com/slimkrazy/python-google-places/zipball/master
+#pip install https://github.com/slimkrazy/python-google-places/zipball/master
+pip install https://github.com/crowdstar5566/python-google-places/zipball/master
 
 OR
 
