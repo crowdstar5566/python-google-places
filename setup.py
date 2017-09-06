@@ -12,7 +12,7 @@ setup(
     url = 'http://github.com/slimkrazy/python-google-places',
     author = __author__,
     author_email = __email__,
-    packages=['googleplacesRC'],
+    packages=['googleplaces'],
     install_requires=[
         'six',
     ],
